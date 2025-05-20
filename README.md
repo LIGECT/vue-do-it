@@ -26,8 +26,6 @@ If you're also learning Vue, feel free to clone, explore, and laugh at my early 
 
 ## 📚 Sources & Inspiration
 
-- [The Odin Project](https://www.theodinproject.com/)
-- [Vue Mastery](https://www.vuemastery.com/)
 - [Laracasts](https://laracasts.com/)
 - YouTube tutorials, docs, StackOverflow, and pure chaos
 
